@@ -2947,3 +2947,29 @@
   width:161px;
   white-space:nowrap;
 }
+#u307_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:40px;
+  height:18px;
+}
+#u307 {
+  position:absolute;
+  left:953px;
+  top:265px;
+  width:40px;
+  height:18px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#36A2D9;
+  text-align:center;
+}
+#u308 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:40px;
+  white-space:nowrap;
+}
